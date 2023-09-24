@@ -1,0 +1,10 @@
+1. Lampara 
+2. Cañeria 
+3. Vaso
+4. Cuadreno
+5. Movil
+6. Agua
+7. Ordenador
+8. Botella
+9. Teclado
+10. Espejo
